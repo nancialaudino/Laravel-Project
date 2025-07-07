@@ -7,3 +7,4 @@
     <h1>Hello World From Laravel v{{ $laravelVersion }} (PHP v{{ $phpVersion }})</h1>
 </body>
 </html>
+
